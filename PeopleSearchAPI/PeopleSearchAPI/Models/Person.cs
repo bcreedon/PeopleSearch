@@ -23,7 +23,7 @@ namespace PeopleSearchAPI.Models
         [Required]
         [Column(TypeName = "varchar(500)")]
         public string Interests { get; set; }
-        [Required]
+        
         [Column(TypeName = "varchar(50)")]
         public string ImageUrl { get; set; }
     }
