@@ -1,0 +1,14 @@
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\bin\Debug\netcoreapp2.2\PeopleSearchAPI.deps.json
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\bin\Debug\netcoreapp2.2\PeopleSearchAPI.runtimeconfig.json
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\bin\Debug\netcoreapp2.2\PeopleSearchAPI.runtimeconfig.dev.json
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\bin\Debug\netcoreapp2.2\PeopleSearchAPI.dll
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\obj\Debug\netcoreapp2.2\PeopleSearchAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\obj\Debug\netcoreapp2.2\PeopleSearchAPI.RazorAssemblyInfo.cache
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\obj\Debug\netcoreapp2.2\PeopleSearchAPI.RazorAssemblyInfo.cs
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\obj\Debug\netcoreapp2.2\PeopleSearchAPI.AssemblyInfoInputs.cache
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\obj\Debug\netcoreapp2.2\PeopleSearchAPI.AssemblyInfo.cs
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\obj\Debug\netcoreapp2.2\PeopleSearchAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\bin\Debug\netcoreapp2.2\PeopleSearchAPI.pdb
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\obj\Debug\netcoreapp2.2\PeopleSearchAPI.dll
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\obj\Debug\netcoreapp2.2\PeopleSearchAPI.pdb
+C:\Users\Bill\PeopleSearchAPI\PeopleSearchAPI\PeopleSearchAPI\obj\Debug\netcoreapp2.2\PeopleSearchAPI.csprojAssemblyReference.cache
